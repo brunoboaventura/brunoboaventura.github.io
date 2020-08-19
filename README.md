@@ -1,5 +1,7 @@
+# This is a fork of Ami Onodera's (https://github.com/ami-onodera) runnerwitch (https://github.com/ami-onodera/runnerwitch) repositorie.
+
 # The adventures of Ami in the Enchanted Forest!
-Play here: https://ami-onodera.github.io/runnerwitch
+Play here: https://brunoboaventura.github.io/
 <br>
 ## Story
 The little witch Ami got lost in the Enchanted Forest! It's getting dark and some evil creatures started appearing. How long can you help the little witch to run from all the enemies?
